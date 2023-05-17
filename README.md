@@ -1,4 +1,7 @@
 
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/sonalii/
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1NmNiNWYwZjgzOTgwZWQyOGNjMzcwMmZlYjFhZGFkODMxYjE4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/> 
 
@@ -50,9 +53,9 @@ CV : [Sonali CV](https://linkedin.com/in/sonalii/)
 ```
 A continuous Learner, with good knowledge of Web development , UI/UX Design.
 
-My career objective is to pursue a challenging career and be part of a progressive 
-organisation  to  utilise my skills for growth  of  the  organisation  as  well as 
-to  enchance  my knowledge  about  new  and  emerging  trends  in  this  sector.
+My career objective is to pursue a challenging career and be part of a progressive organisation 
+to utilise my skills for growth of the organisation as well as to  enchance my knowledge 
+about new and emerging trends in this sector.
 ```
 
 ***
@@ -126,6 +129,5 @@ Coming very soon!
 
 _© 2022 @sonaliidas_
 
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/sonalii/
+
 
