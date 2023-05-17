@@ -62,28 +62,28 @@ about new and emerging trends in this sector.
 
 ### My Certification :
 
-<a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+<a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesign.png" alt="Web Design for Everybody: Basics of Web Development & Coding Certificate" width="400" height="300"></img></a> 
 
-<a target="Introduction to Front-End Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/2L8BRFFC5LBH"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+<a target="Introduction to Front-End Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/2L8BRFFC5LBH"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/frontend.png" alt="Introduction to Front-End Development Certificate" width="400" height="300"></img></a>
 
-<a target="Version Control Certificate" href="https://www.coursera.org/account/accomplishments/verify/F9D62SNN6GLF"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+<a target="Version Control Certificate" href="https://www.coursera.org/account/accomplishments/verify/F9D62SNN6GLF"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/versioncontrol.png" alt="Version Control Certificate" width="400" height="300"></img></a> 
 
-<a target="Principles of UX/UI Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/UFQ6JK2ZTTFE"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+<a target="Principles of UX/UI Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/UFQ6JK2ZTTFE"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/uiuxprinciples.png" alt="Principles of UX/UI Design Certificate" width="400" height="300"></img></a> 
 
-<a target="Foundations of User Experience (UX) Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/48RWF9SUGFCP"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+<a target="Foundations of User Experience (UX) Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/48RWF9SUGFCP"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/uxfoundations.png" alt="Foundations of User Experience (UX) Design Certificate" width="400" height="300"></img></a> 
 
-<a target="Web Design: Strategy and Information Architecture Certificate" href="https://www.coursera.org/account/accomplishments/verify/XK2M6W7BGJDE"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+<a target="Web Design: Strategy and Information Architecture Certificate" href="https://www.coursera.org/account/accomplishments/verify/XK2M6W7BGJDE"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesignstrategy.png" alt="Web Design: Strategy and Information Architecture Certificate" width="400" height="300"></img></a> 
 
-<a target="Build wireframes and low fidelity prototypes Certificate" href="https://www.coursera.org/account/accomplishments/verify/DAJMRPRVJXWX"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+<a target="Build wireframes and low fidelity prototypes Certificate" href="https://www.coursera.org/account/accomplishments/verify/DAJMRPRVJXWX"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/wireframesnprototype.png" alt="Build wireframes and low fidelity prototypes Certificate" width="400" height="300"></img></a>
 
-<a target="What is Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/8JD7XYCDGH8X"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+<a target="What is Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/8JD7XYCDGH8X"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/datascience.png" alt="What is Data Science Certificate" width="400" height="300"></img></a>
 
-<a target="Python for Data Science, AI & Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/4K4YBC5A6GXX"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+<a target="Python for Data Science, AI & Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/4K4YBC5A6GXX"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/pythondatascience.png" alt="Python for Data Science, AI & Development Certificate" width="400" height="300"></img></a>
 
 ----
 
 ### :mailbox: Connect with me: 
-<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="" alt="Portfolio" width="400" height="220"></img></a>
+<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali linkedin" width="400" height="220"></img></a>
 <br/>
 
 ### :hammer_and_wrench: Languages and Tools :
