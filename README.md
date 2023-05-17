@@ -66,15 +66,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sonaliidas&theme=transparent&hide_border=true&card_width=600&ring=FFAA33&fire=FF7518&currStreakLabel=FF7518&sideLabels=0B1F56&currStreakNum=000000&sideNums=000000&dates=000000&stroke=CFCFCF))](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sonaliidas&theme=transparent&hide_border=false&card_width=600&ring=FFAA33&fire=FF7518&currStreakLabel=FF7518&sideLabels=0B1F56&currStreakNum=000000&sideNums=000000&dates=000000&stroke=CFCFCF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&layout=compact)](https://github.com/sonaliidas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&layout=compact&card_width=600)](https://github.com/sonaliidas/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+```
+Coming very soon!
+```
 <!-- BLOG-POST-LIST:END -->
 
 
