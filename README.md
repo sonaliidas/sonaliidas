@@ -1,27 +1,32 @@
+<!---================================VARIABLES================================--->
 
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/sonalii/
 
+<!---================================HEADER================================--->
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1NmNiNWYwZjgzOTgwZWQyOGNjMzcwMmZlYjFhZGFkODMxYjE4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/> 
 
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Sonali](https://linkedin.com/in/sonalii/) - New-grad from [MDU, Rohtak](https://mdu.ac.in/) 🏢
+  ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Sonali](https://linkedin.com/in/sonalii/) - New-grad from [MDU, Rohtak](https://mdu.ac.in/) 🏢
 
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://linkedin.com/in/sonalii/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="mailto:sonalii0515@gmail.com?Subject=Contacting via GitHub Profile">
+      <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://discord.com/">
+      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
     </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=sonaliidas&style=flat-square&color=blue" alt="profile count"/>
 
 </div>
+
+<!---================================ABOUT================================--->
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgyNmMxZTNkOTVjYWM0NzgwN2NjOWY3ZTYzMmY2ODIyNTdlYjczMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BferOKonYOspm28AiB/giphy.gif" width="600" height="280"/>
@@ -58,33 +63,50 @@ to utilise my skills for growth of the organisation as well as to  enchance my k
 about new and emerging trends in this sector.
 ```
 
+<!---================================CERTIFICATES================================--->
+
 ***
 
 ### My Certification :
 
-<a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesign.png" alt="Web Design for Everybody: Basics of Web Development & Coding Certificate" width="400" height="300"></img></a> 
+<a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesign.png" alt="Web Design for Everybody: Basics of Web Development & Coding Certificate" width="400" height="300"></img>
+</a> 
+<a target="Introduction to Front-End Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/2L8BRFFC5LBH">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/frontend.png" alt="Introduction to Front-End Development Certificate" width="400" height="300"></img>
+</a>
+<a target="Version Control Certificate" href="https://www.coursera.org/account/accomplishments/verify/F9D62SNN6GLF">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/versioncontrol.png" alt="Version Control Certificate" width="400" height="300"></img>
+</a> 
+<a target="Principles of UX/UI Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/UFQ6JK2ZTTFE">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/uiuxprinciples.png" alt="Principles of UX/UI Design Certificate" width="400" height="300"></img>
+</a> 
+<a target="Foundations of User Experience (UX) Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/48RWF9SUGFCP">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/uxfoundations.png" alt="Foundations of User Experience (UX) Design Certificate" width="400" height="300"></img>
+</a> 
+<a target="Web Design: Strategy and Information Architecture Certificate" href="https://www.coursera.org/account/accomplishments/verify/XK2M6W7BGJDE">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesignstrategy.png" alt="Web Design: Strategy and Information Architecture Certificate" width="400" height="300"></img>
+</a> 
+<a target="Build wireframes and low fidelity prototypes Certificate" href="https://www.coursera.org/account/accomplishments/verify/DAJMRPRVJXWX">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/wireframesnprototype.png" alt="Build wireframes and low fidelity prototypes Certificate" width="400" height="300"></img>
+</a>
+<a target="What is Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/8JD7XYCDGH8X">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/datascience.png" alt="What is Data Science Certificate" width="400" height="300"></img>
+</a>
+<a target="Python for Data Science, AI & Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/4K4YBC5A6GXX">
+  <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/pythondatascience.png" alt="Python for Data Science, AI & Development Certificate" width="400" height="300"></img>
+</a>
 
-<a target="Introduction to Front-End Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/2L8BRFFC5LBH"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/frontend.png" alt="Introduction to Front-End Development Certificate" width="400" height="300"></img></a>
+***
 
-<a target="Version Control Certificate" href="https://www.coursera.org/account/accomplishments/verify/F9D62SNN6GLF"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/versioncontrol.png" alt="Version Control Certificate" width="400" height="300"></img></a> 
-
-<a target="Principles of UX/UI Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/UFQ6JK2ZTTFE"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/uiuxprinciples.png" alt="Principles of UX/UI Design Certificate" width="400" height="300"></img></a> 
-
-<a target="Foundations of User Experience (UX) Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/48RWF9SUGFCP"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/uxfoundations.png" alt="Foundations of User Experience (UX) Design Certificate" width="400" height="300"></img></a> 
-
-<a target="Web Design: Strategy and Information Architecture Certificate" href="https://www.coursera.org/account/accomplishments/verify/XK2M6W7BGJDE"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesignstrategy.png" alt="Web Design: Strategy and Information Architecture Certificate" width="400" height="300"></img></a> 
-
-<a target="Build wireframes and low fidelity prototypes Certificate" href="https://www.coursera.org/account/accomplishments/verify/DAJMRPRVJXWX"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/wireframesnprototype.png" alt="Build wireframes and low fidelity prototypes Certificate" width="400" height="300"></img></a>
-
-<a target="What is Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/8JD7XYCDGH8X"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/datascience.png" alt="What is Data Science Certificate" width="400" height="300"></img></a>
-
-<a target="Python for Data Science, AI & Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/4K4YBC5A6GXX"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/pythondatascience.png" alt="Python for Data Science, AI & Development Certificate" width="400" height="300"></img></a>
-
-----
+<!---================================CONNECT WITH ME================================--->
 
 ### :mailbox: Connect with me: 
+
 <a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali linkedin" width="400" height="220"></img></a>
 <br/>
+
+<!---================================LANGUAGES AND TOOLS================================--->
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -109,17 +131,20 @@ about new and emerging trends in this sector.
   <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
 </div>
 
-----
+***
+
+<!---================================STATS================================--->
 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sonaliidas&theme=transparent&hide_border=false&card_width=600&ring=FFAA33&fire=FF7518&currStreakLabel=FF7518&sideLabels=0B1F56&currStreakNum=000000&sideNums=000000&dates=000000&stroke=CFCFCF)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&layout=compact&card_width=600)](https://github.com/sonaliidas/github-readme-stats)
 
----
+***
 
-### :writing_hand: Blog Posts :
+<!---================================BLOGS================================--->
+
+### :writing_hand: Recently Read Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -128,6 +153,8 @@ about new and emerging trends in this sector.
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
+
+----
 
 _© 2022 @sonaliidas_
 
