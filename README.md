@@ -1,7 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1NmNiNWYwZjgzOTgwZWQyOGNjMzcwMmZlYjFhZGFkODMxYjE4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/>
-  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1NmNiNWYwZjgzOTgwZWQyOGNjMzcwMmZlYjFhZGFkODMxYjE4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/> 
+
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Sonali](https://linkedin.com/in/sonalii/) - New-grad from [MDU, Rohtak](https://mdu.ac.in/) 🏢
+
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,30 +16,72 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=sonaliidas&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-    Hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=sonaliidas&style=flat-square&color=blue" alt="profile count"/>
+
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgyNmMxZTNkOTVjYWM0NzgwN2NjOWY3ZTYzMmY2ODIyNTdlYjczMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BferOKonYOspm28AiB/giphy.gif" width="600" height="280"/>
 </div>
 
-----
+***  
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Fresher with good Web Development & UI/UX Design skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonalii/)
+- :telescope: A keen learner
+- :seedling: I'm currently working on:
+    - [ ] Front-end Development
+    - [X] Web Design  
+    - [X] UI/UX Design    
+- :zap: In my free time, I contribute in projects available on community posts and read tech articles.
+- 🥅 2023 Goals: 
+  - Learning New Skills on the field of Data Science, Full stack Development
+  - Learning a third language (German)
+
+#### :mailbox:How to reach me:
+[<img align="left" alt="sonali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="sonali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+
+CV : [Sonali CV](https://linkedin.com/in/sonalii/)
+
+##### More about me:
+
+```
+A continuous Learner, with good knowledge of Web development , UI/UX Design.
+
+My career objective is to pursue a challenging career and be part of a progressive 
+organisation  to  utilise my skills for growth  of  the  organisation  as  well as 
+to  enchance  my knowledge  about  new  and  emerging  trends  in  this  sector.
+```
+
+***
+
+### My Certification :
+
+<a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+
+<a target="Introduction to Front-End Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/2L8BRFFC5LBH"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+
+<a target="Version Control Certificate" href="https://www.coursera.org/account/accomplishments/verify/F9D62SNN6GLF"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+
+<a target="Principles of UX/UI Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/UFQ6JK2ZTTFE"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+
+<a target="Foundations of User Experience (UX) Design Certificate" href="https://www.coursera.org/account/accomplishments/verify/48RWF9SUGFCP"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+
+<a target="Web Design: Strategy and Information Architecture Certificate" href="https://www.coursera.org/account/accomplishments/verify/XK2M6W7BGJDE"><img src="" alt="Portfolio" width="400" height="300"></img></a> 
+
+<a target="Build wireframes and low fidelity prototypes Certificate" href="https://www.coursera.org/account/accomplishments/verify/DAJMRPRVJXWX"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+
+<a target="What is Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/8JD7XYCDGH8X"><img src="" alt="Portfolio" width="400" height="300"></img></a>
+
+<a target="Python for Data Science, AI & Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/4K4YBC5A6GXX"><img src="" alt="Portfolio" width="400" height="300"></img></a>
 
 ----
+
+### :mailbox: Connect with me: 
+<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="" alt="Portfolio" width="400" height="220"></img></a>
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -82,8 +126,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
+_© 2022 @sonaliidas_
 
-
-
-
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/sonalii/
 
