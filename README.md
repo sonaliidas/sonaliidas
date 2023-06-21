@@ -67,7 +67,7 @@ about new and emerging trends in this sector.
 
 ***
 
-### My Certification :
+### Some of my certifications :
 
 <a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C">
   <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesign.png" alt="Web Design for Everybody: Basics of Web Development & Coding Certificate" width="400" height="300"></img>
