@@ -110,7 +110,7 @@ about new and emerging trends in this sector.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <code><a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a></code>&nbsp;
   <code><a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" title="Atom" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/></a></code>&nbsp;
   <code><a href="https://codepen.io/" title="Codepen" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/codepen/codepen-plain.svg" alt="Codepen" width="40" height="40"/></a></code>&nbsp;
