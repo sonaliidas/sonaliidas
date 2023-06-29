@@ -111,24 +111,26 @@ about new and emerging trends in this sector.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/intellij/intellij-original.svg" title="intelli j" alt="intelli j" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/javascript/javascript-original.svg" title="j s" alt="j s" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/sketch/sketch-original.svg" title="sketch" alt="sketch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="my sql" alt="my sql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
+  <code><a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" title="Atom" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://codepen.io/" title="Codepen" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/codepen/codepen-plain.svg" alt="Codepen" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.jetbrains.com/idea/" title="IntelliJ Idea" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ Idea" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/javascript/javascript-original.svg" alt="j s" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.wordpress.com/" title="Wordpress" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.markdownguide.org/" title="Markdown" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.adobe.com/in/products/illustrator.html" title="Adobe InDesign" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/github/github-original.svg" alt="adobe indesign" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.canva.com/" title="Canva" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.adobe.com/in/products/illustrator.html" title="Illustrator" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.sketch.com/" title="Sketch" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="my sql" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.python.org/" title="Python" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.git-scm.com/" title="Git" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></code>&nbsp;
+  <code><a href="https://www.github.com/" title="GitHub" target="_blank"><img src="https://github.com/sonaliidas/tool-icons-devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a></code>
 </div>
 
 ***
