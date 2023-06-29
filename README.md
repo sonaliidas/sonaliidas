@@ -136,17 +136,18 @@ about new and emerging trends in this sector.
 <!---================================STATS================================--->
 
 ### :fire: My Stats :
-
+<!---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sonaliidas&theme=transparent&hide_border=false&card_width=600&ring=FFAA33&fire=FF7518&currStreakLabel=FF7518&sideLabels=0B1F56&currStreakNum=000000&sideNums=000000&dates=000000&stroke=CFCFCF)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&layout=compact&card_width=600)](https://github.com/sonaliidas/github-readme-stats)
-
-<!---
-<p align="center">
-  <br/>
-        <a href="https://github.com/sonaliidas/sonaliidas"><img alt="sonaliidas Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sonaliidas&show_icons=true&count_private=true" height="192px" /></a>
-        <a href="https://github.com/sonaliidas/sonaliidas"><img alt="sonaliidas Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sonaliidas&hide=TSQL,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" height="192px" /></a>
-</p>
 --->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonaliidas&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonaliidas&theme=oned&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
 ***
 
 <!---================================BLOGS================================--->
