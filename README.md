@@ -68,7 +68,7 @@ about new and emerging trends in this sector.
 ***
 
 ### Some of my certifications :
-
+<div align="center">
 <a target="Web Design for Everybody: Basics of Web Development & Coding Certificate" href="https://www.coursera.org/account/accomplishments/specialization/MS8GDTU4WE4C">
   <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/webdesign.png" alt="Web Design for Everybody: Basics of Web Development & Coding Certificate" width="400" height="300"></img>
 </a> 
@@ -96,16 +96,16 @@ about new and emerging trends in this sector.
 <a target="Python for Data Science, AI & Development Certificate" href="https://www.coursera.org/account/accomplishments/verify/4K4YBC5A6GXX">
   <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/pythondatascience.png" alt="Python for Data Science, AI & Development Certificate" width="400" height="300"></img>
 </a>
-
+</div>
 ***
 
 <!---================================CONNECT WITH ME================================--->
 
 ### :mailbox: Connect with me: 
-
-<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali linkedin" width="400" height="220"></img></a>
+<div>
+<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali linkedin" width="500" height="300"></img></a>
 <br/>
-
+</div>
 <!---================================LANGUAGES AND TOOLS================================--->
 
 ### :hammer_and_wrench: Languages and Tools :
