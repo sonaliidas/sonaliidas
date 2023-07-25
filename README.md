@@ -105,6 +105,8 @@ about new and emerging trends in this sector.
 <a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali linkedin" width="500" height="300"></img></a>
 <br/>
 </div>
+
+***
 <!---================================LANGUAGES AND TOOLS================================--->
 
 ### :hammer_and_wrench: Languages and Tools :
