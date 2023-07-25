@@ -63,9 +63,8 @@ to utilise my skills for growth of the organisation as well as to  enchance my k
 about new and emerging trends in this sector.
 ```
 
-<!---================================CERTIFICATES================================--->
-
 ***
+<!---================================CERTIFICATES================================--->
 
 ### Some of my certifications :
 <div align="center">
@@ -97,8 +96,8 @@ about new and emerging trends in this sector.
   <img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/pythondatascience.png" alt="Python for Data Science, AI & Development Certificate" width="400" height="300"></img>
 </a>
 </div>
-***
 
+----
 <!---================================CONNECT WITH ME================================--->
 
 ### :mailbox: Connect with me: 
@@ -134,7 +133,6 @@ about new and emerging trends in this sector.
 </div>
 
 ***
-
 <!---================================STATS================================--->
 
 ### :fire: My Stats :
@@ -150,7 +148,6 @@ about new and emerging trends in this sector.
   <!--- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonaliidas&show_icons=true&hide_border=false&show_owner=true&layout=compact" /> --->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&hide_border=false&layout=compact">
 </p>
-
 
 ***
 
