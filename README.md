@@ -43,12 +43,12 @@ I am a Fresher with good Web Development & UI/UX Design skills <img src="https:/
     - [ ] Front-end Development
     - [X] Web Design  
     - [X] UI/UX Design    
-- :zap: In my free time, I contribute in projects available on community posts and read tech articles.
+- :zap: In my free time, I contribute to projects available on community posts and read tech articles.
 - 🥅 2023 Goals: 
-  - Learning New Skills on the field of Data Science, Full stack Development
+  - Learning New Skills in the field of Data Science, Full stack Development
   - Learning a third language (German)
 
-#### :mailbox:How to reach me:
+#### :mailbox: How to reach me:
 [<img align="left" alt="sonali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="sonali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 CV : [Sonali CV](https://linkedin.com/in/sonalii/)
@@ -56,10 +56,10 @@ CV : [Sonali CV](https://linkedin.com/in/sonalii/)
 ##### More about me:
 
 ```
-A continuous Learner, with good knowledge of Web development , UI/UX Design.
+A continuous Learner, with good knowledge of Web development, and UI/UX Design.
 
-My career objective is to pursue a challenging career and be part of a progressive organisation 
-to utilise my skills for growth of the organisation as well as to  enchance my knowledge 
+My career objective is to pursue a challenging career and be part of a progressive organization 
+to utilize my skills for the growth of the organization as well as to  enhance my knowledge 
 about new and emerging trends in this sector.
 ```
 
@@ -102,7 +102,7 @@ about new and emerging trends in this sector.
 
 ### :mailbox: Connect with me: 
 <div>
-<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali linkedin" width="500" height="300"></img></a>
+<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali LinkedIn" width="500" height="300"></img></a>
 <br/>
 </div>
 
