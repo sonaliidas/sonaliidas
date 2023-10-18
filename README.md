@@ -8,8 +8,7 @@
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1NmNiNWYwZjgzOTgwZWQyOGNjMzcwMmZlYjFhZGFkODMxYjE4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/> 
 
-  ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Sonali](https://linkedin.com/in/sonalii/) - New-grad from [MDU, Rohtak](https://mdu.ac.in/) 🏢
-
+  ## Hey there! I'm [Sonali](https://linkedin.com/in/sonalii/) - New-grad from [MDU, Rohtak](https://mdu.ac.in/) 🏢
   <div id="badges">
     <a href="https://linkedin.com/in/sonalii/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -150,6 +149,8 @@ about new and emerging trends in this sector.
   <!--- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonaliidas&show_icons=true&hide_border=false&show_owner=true&layout=compact" /> --->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&hide_border=false&layout=compact">
 </p>
+
+![Snake animation](https://github.com/sonaliidas/sonaliidas/blob/output/github-contribution-grid-snake.svg)
 
 ***
 
