@@ -151,9 +151,9 @@ about new and emerging trends in this sector.
 </p>
 
 <p align="center">
-  <img src="https://github.com/sonaliidas/sonaliidas/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  
 </p>
-
+![snake animation](https://github.com/<seu sonaliidas>/<seu sonaliidas>/blob/output/github-contribution-grid-snake2.svg)
 ***
 
 <!---================================BLOGS================================--->
