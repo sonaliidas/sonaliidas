@@ -150,7 +150,9 @@ about new and emerging trends in this sector.
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliidas&hide_border=false&layout=compact">
 </p>
 
-![Snake animation](https://github.com/sonaliidas/sonaliidas/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/sonaliidas/sonaliidas/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ***
 
