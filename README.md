@@ -39,11 +39,12 @@ I am a Fresher with good Web Development & UI/UX Design skills <img src="https:/
 
 - :telescope: A keen learner
 - :seedling: I'm currently working on:
-    - [ ] Front-end Development
+    - [X] Front-end Development
     - [X] Web Design  
-    - [X] UI/UX Design    
+    - [X] UI/UX Design
+    - [ ] Java   
 - :zap: In my free time, I contribute to projects available on community posts and read tech articles.
-- 🥅 2023 Goals: 
+- 🥅 2024 Goals: 
   - Learning New Skills in the field of Data Science, Full stack Development
   - Learning a third language (German)
 
@@ -153,8 +154,8 @@ about new and emerging trends in this sector.
 <p align="center">
   
 </p>
-![snake animation](https://github.com/<seu sonaliidas>/<seu sonaliidas>/blob/output/github-contribution-grid-snake2.svg)
-***
+<!-- ![snake animation](https://github.com/<seu sonaliidas>/<seu sonaliidas>/blob/output/github-contribution-grid-snake2.svg) 
+*** -->
 
 <!---================================BLOGS================================--->
 
