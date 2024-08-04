@@ -102,7 +102,7 @@ about new and emerging trends in this sector.
 
 ### :mailbox: Connect with me: 
 <div>
-<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin.png" alt="sonali LinkedIn" width="500" height="300"></img></a>
+<a target="Linkedin" href="https://www.linkedin.com/in/sonalii/"><img src="https://github.com/sonaliidas/sonaliidas/blob/main/assets/linkedin_v2.png" alt="sonali LinkedIn" width="500" height="300"></img></a>
 <br/>
 </div>
 
