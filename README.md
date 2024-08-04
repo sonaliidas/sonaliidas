@@ -171,7 +171,7 @@ about new and emerging trends in this sector.
 
 ----
 
-_© 2022 @sonaliidas_
+_© 2024 @sonaliidas_
 
 
 
